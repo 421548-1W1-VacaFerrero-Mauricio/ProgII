@@ -1,0 +1,10 @@
+D:\C#\Ejercicio 4.13\bin\Debug\Ejercicio 4.13.exe.config
+D:\C#\Ejercicio 4.13\bin\Debug\Ejercicio 4.13.exe
+D:\C#\Ejercicio 4.13\bin\Debug\Ejercicio 4.13.pdb
+D:\C#\Ejercicio 4.13\obj\Debug\Ejercicio 4.13.csproj.AssemblyReference.cache
+D:\C#\Ejercicio 4.13\obj\Debug\Ejercicio_4._13.FrmPersonas.resources
+D:\C#\Ejercicio 4.13\obj\Debug\Ejercicio_4._13.Properties.Resources.resources
+D:\C#\Ejercicio 4.13\obj\Debug\Ejercicio 4.13.csproj.GenerateResource.cache
+D:\C#\Ejercicio 4.13\obj\Debug\Ejercicio 4.13.csproj.CoreCompileInputs.cache
+D:\C#\Ejercicio 4.13\obj\Debug\Ejercicio 4.13.exe
+D:\C#\Ejercicio 4.13\obj\Debug\Ejercicio 4.13.pdb
